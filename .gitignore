@@ -1,0 +1,40 @@
+# Comentário - Esta linha é ignorada pelo Git
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos compilados
+*.o
+*.exe
+*.dll
+*.bkp
+notes.*
+
+# Ignorar diretório de dependências
+/node_modules
+
+# Ignorar arquivos sensíveis
+secrets.txt
+
+# Ignorar arquivos específicos em um diretório
+/path/to/file.txt
+
+# Ignorar todos os arquivos em um diretório específico
+/some-directory/*
+
+# Ignorar um diretório inteiro
+/backup/
+
+
+
+
+
+
+
+
+
+
+
