@@ -12,6 +12,7 @@
 *.dll
 *.bkp
 notes.*
+.vs
 
 # Ignorar diretório de dependências
 /node_modules
